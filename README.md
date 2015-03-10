@@ -1,2 +1,2 @@
-# scotland.github.io
-Quiz website about scotland for the intercultural week
+# intercultural-week.github.io
+Quiz website for the intercultural week at ENSEEIHT
