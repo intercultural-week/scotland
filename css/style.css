@@ -299,9 +299,6 @@
     .page4 {
       background-color: #674172;
     }
-    .page4 .img-question {
-        width: 35%;
-    }
     .page4 h1 {
         width: 100%;
         padding : 20px 20px;
@@ -313,12 +310,13 @@
 
     .page5 h1 {
         width: 100%;
+        padding: 20px 20px;
     }
-
 
     .page5 .img-question {
-        width: 40%;
+        width: 30%;
     }
+
 
     .page6 {
         background-color: #DB0A5B;
